@@ -2,4 +2,5 @@
 
 function test(){
          console.log('This is a sample function');
+this is for test
 
